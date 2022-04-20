@@ -1,5 +1,5 @@
 # modal-project
-
+POC vue teleport components and with modals
 ## Project setup
 ```
 npm install
